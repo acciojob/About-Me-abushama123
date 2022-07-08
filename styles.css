@@ -1,1 +1,20 @@
 
+.my_img{
+    width: 100%;
+    margin-top: 1rem;
+}
+.logo_img{
+    width: 10%;
+}
+.percent_value{
+    float: right;
+}
+.about{
+    text-decoration: underline;
+    text-underline-offset: 40%;
+    text-decoration-color: blue;
+    text-decoration-thickness: 3px;
+}
+.description{
+    font-size: 1.6rem;
+}
